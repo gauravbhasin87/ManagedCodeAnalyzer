@@ -1,0 +1,8 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\bin\Debug\SemiExpression.dll.config
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\bin\Debug\SemiExpression.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\bin\Debug\SemiExpression.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\bin\Debug\Tokenizer.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\bin\Debug\Tokenizer.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\obj\Debug\SemiExpression.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\obj\Debug\SemiExpression.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\SemiExpression\obj\Debug\SemiExpression.pdb

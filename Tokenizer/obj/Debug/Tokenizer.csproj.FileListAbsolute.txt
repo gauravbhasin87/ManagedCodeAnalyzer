@@ -1,0 +1,6 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\bin\Debug\Tokenizer.dll.config
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\bin\Debug\Tokenizer.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\bin\Debug\Tokenizer.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\obj\Debug\Tokenizer.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\Tokenizer\obj\Debug\Tokenizer.pdb

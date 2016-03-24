@@ -1,0 +1,14 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\RulesAndActions.dll.config
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\RulesAndActions.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\RulesAndActions.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\Repository.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\ScopeStack.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\SemiExpression.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\Tokenizer.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\ScopeStack.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\Repository.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\SemiExpression.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\bin\Debug\Tokenizer.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\obj\Debug\RulesAndActions.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\obj\Debug\RulesAndActions.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\RulesAndActions\obj\Debug\RulesAndActions.pdb

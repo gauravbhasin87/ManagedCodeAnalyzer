@@ -1,0 +1,14 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\DisplayPkg.exe.config
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\DisplayPkg.exe
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\DisplayPkg.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\Repository.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\ScopeStack.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\SemiExpression.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\Tokenizer.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\Repository.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\ScopeStack.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\SemiExpression.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\bin\Debug\Tokenizer.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\obj\Debug\DisplayPkg.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\obj\Debug\DisplayPkg.exe
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\DisplayPkg\obj\Debug\DisplayPkg.pdb

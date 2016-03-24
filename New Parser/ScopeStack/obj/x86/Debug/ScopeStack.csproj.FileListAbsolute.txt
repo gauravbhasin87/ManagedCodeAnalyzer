@@ -1,0 +1,5 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\New Parser\ScopeStack\bin\Debug\ScopeStack.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\New Parser\ScopeStack\bin\Debug\ScopeStack.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\New Parser\ScopeStack\obj\x86\Debug\ScopeStack.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\New Parser\ScopeStack\obj\x86\Debug\ScopeStack.dll
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\New Parser\ScopeStack\obj\x86\Debug\ScopeStack.pdb

@@ -1,0 +1,6 @@
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\bin\Debug\ParserCL.exe.config
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\bin\Debug\ParserCL.exe
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\bin\Debug\ParserCL.pdb
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\obj\Debug\ParserCL.csprojResolveAssemblyReference.cache
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\obj\Debug\ParserCL.exe
+E:\MSinCS\Semester#2\SMA\Project2\MyProject#2\ManagedCodeAnalyzer\ParserCL\obj\Debug\ParserCL.pdb
